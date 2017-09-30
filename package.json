@@ -19,7 +19,7 @@
   "devDependencies": {
     "eslint": "~4.7.0",
     "jquery": "~3.2.1",
-    "jsdom": "~11.2.0",
+    "jsdom": "~11.3.0",
     "lunr": "~2.1.2",
     "mocha": "~3.5.0"
   }
